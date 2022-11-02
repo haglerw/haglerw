@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @haglerw
+- 👀 I’m interested in building fullstack application on Spring Boot and Angular.
+- 🌱 I’m currently learning Javascript Algorithms and Data Structures
+- 💞️ I’m looking to collaborate on Spring Boot and Angular applications
+- 📫 How to reach me haglerwafula@gmail.com | https://twitter.com/haglerwafula
